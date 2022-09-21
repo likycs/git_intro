@@ -1,3 +1,5 @@
 Kyrne Li
 liky@oregonstate.edu
-blue
+blue=
+7
+The Who
